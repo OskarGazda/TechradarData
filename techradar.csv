@@ -1,0 +1,79 @@
+name,ring,quadrant,isNew,up for discussion,description
+Python,adopt,Framework & Languages,,,"Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales."
+PHP,adopt,Framework & Languages,,,PHP: Hypertext Preprocessor is a general-purpose programming language originally designed for web development. It was originally created by Rasmus Lerdorf in 1994; the PHP reference implementation is now produced by The PHP Group.
+Ruby,,Framework & Languages,,,"Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro ""Matz"" Matsumoto in Japan. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, and Lisp."
+Bootstrap,,Framework & Languages,,,"Bootstrap is a free and open-source front-end web framework. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. Unlike many earlier web frameworks, it concerns itself with front-end development only."
+Node.js,adopt,Framework & Languages,,,"Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser."
+Laravel,adopt,Framework & Languages,,,"Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony."
+Pandas,adopt,Framework & Languages,,,"In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license."
+Dask,adopt,Framework & Languages,,,Dask is a flexible parallel python computing library for data analytics. 
+CSS,adopt,Framework & Languages,,,"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+HTML,adopt,Framework & Languages,,,"Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web."
+JavaScript,adopt,Framework & Languages,,,"JavaScript, often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a programming language that is characterized as dynamic, weakly typed, prototype-based and multi-paradigm."
+Typescript,assess,Framework & Languages,,,"TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript."
+WordPress,adopt,Framework & Languages,,,"WordPress is a free and open-source content management system based on PHP & MySQL. Features include a plugin architecture and a template system. It is most associated with blogging but supports other types of web content including more traditional mailing lists and forums, media galleries, and online stores."
+react,assess,Framework & Languages,,,React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+Vue.js,assess,Framework & Languages,,,Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
+Stancil.js,trial,Framework & Languages,,,"Stencil is a compiler that generates Web Components (more specifically, Custom Elements). Stencil combines the best concepts of the most popular frameworks into a simple build-time tool."
+Sass,adopt,Framework & Languages,,,"Sass is a style sheet language initially designed by Henry Thornton and developed by Natalie Weizenbaum. After its initial versions, Weizenbaum and Chris Eppstein have continued to extend Sass with SassScript, a simple scripting language used in Sass files."
+Vagrant,assess,tools,,,"Vagrant is an open-source software product for building and maintaining portable virtual software development environments, e.g. for VirtualBox, KVM, Hyper-V, Docker containers, VMware, and AWS. It tries to simplify software configuration management of virtualizations in order to increase development productivity."
+VirtualBox,adopt,tools,,,"Oracle VM VirtualBox is a free and open-source hosted hypervisor for x86 computers and is under development by Oracle Corporation. Developed initially by Innotek GmbH, it was acquired by Sun Microsystems in 2008, which was, in turn, acquired by Oracle in 2010."
+Slack,adopt,tools,,,"Slack is an American cloud-based set of proprietary team collaboration tools and services, founded by Stewart Butterfield. Slack began as an internal tool used by his company, Tiny Speck, in the development of Glitch, a now defunct online game."
+asana,adopt,tools,,,"Asana is a web and mobile application designed to help teams organize, track, and manage their work. Forrester, Inc. reports that “Asana simplifies team-based work management.”"
+Sublime Text,adopt,tools,,,"Sublime Text is a proprietary cross-platform source code editor with a Python application programming interface. It natively supports many programming languages and markup languages, and functions can be added by users with plugins, typically community-built and maintained under free-software licenses."
+Atom,adopt,tools,,,"Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies."
+Visual Studio Code,adopt,tools,,,
+Adobe Xd,adopt,tools,,,
+Local by flywheel,adopt,tools,,x,
+Screaming Frog,adopt,tools,,,
+PyCharm,adopt,tools,,,
+Adobe Illustrator,adopt,tools,,,
+Docker,trial,tools,,,
+Semrush,adopt,tools,,,
+Dragon Metrics,adopt,tools,,,
+Google Ads,adopt,tools,,,
+Composer,adopt,tools,,,
+NPM,adopt,tools,,,
+Yarn,adopt,tools,,,
+Google Searchconsole,adopt,tools,,,
+Google analytics,adopt,tools,,,
+git,adopt,tools,,,
+gitlab,adopt,tools,,,
+Everhour,adopt,tools,,,
+Sourcetree,adopt,tools,,,
+Office,adopt,tools,,,
+Google Apps,adopt,tools,,,
+Adobe Photoshop,adopt,tools,,,
+Sage,adopt,Framework & Languages,,,
+ahrefs,adopt,tools,,,
+MySQL,adopt,Platform,,,
+SQL,adopt,Framework & Languages,,,
+Omniture,adopt,tools,,,
+Apache,adopt,Platform,,,
+Nginx,adopt,Platform,,,
+PhpUnit,adopt,Framework & Languages,,,
+Selenium,trial,tools,,,
+Mocha,trial,Framework & Languages,,,
+Chai,trial,Framework & Languages,,,
+Kubernetes,assess,Platform,,,
+PowerBI,adopt,tools,,,
+Google tag manager,adopt,,,,
+Google keyword manager,adopt,,,,
+Google data studio,adopt,,,,
+webflow,adopt,tools,,,
+buzzsumo,,tools,,,
+deepcrawl,adopt,tools,,,
+iOs Appstore,adopt,Platform,,,
+brightedge,adopt,tools,,,
+Quantum Metric,adopt,tools,,,
+META SEO inspector,adopt,tools,,,
+Check My Links,adopt,tools,,,
+Check my broken links,adopt,tools,,,
+Fireshot,adopt,tools,,,
+Sensor Tower,adopt,tools,,,
+SEOquake,adopt,tools,,,
+Redirect Path,adopt,tools,,,
+Adobe InDesign,adopt,tools,,,
+MailChimp,adopt,tools,,,
+LastPass,adopt,tools,,,
+Electron,adopt,Framework & Language,,,
