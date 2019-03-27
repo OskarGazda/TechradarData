@@ -1,0 +1,79 @@
+name,ring,quadrant,isNew,description
+Python,adopt,Framework and Languages,FALSE,"Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python has a design philosophy that emphasizes code readability, notably using significant whitespace. It provides constructs that enable clear programming on both small and large scales."
+PHP,adopt,Framework and Languages,FALSE,PHP: Hypertext Preprocessor is a general-purpose programming language originally designed for web development. It was originally created by Rasmus Lerdorf in 1994; the PHP reference implementation is now produced by The PHP Group.
+Ruby,adopt,Framework and Languages,FALSE,"Ruby is a dynamic, interpreted, reflective, object-oriented, general-purpose programming language. It was designed and developed in the mid-1990s by Yukihiro ""Matz"" Matsumoto in Japan. According to the creator, Ruby was influenced by Perl, Smalltalk, Eiffel, Ada, and Lisp."
+Bootstrap,adopt,Framework and Languages,FALSE,"Bootstrap is a free and open-source front-end web framework. It contains HTML and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. Unlike many earlier web frameworks, it concerns itself with front-end development only."
+Node.js,adopt,Framework and Languages,FALSE,"Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code outside of a browser."
+Laravel,adopt,Framework and Languages,FALSE,"Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller architectural pattern and based on Symfony."
+Pandas,adopt,Framework and Languages,FALSE,"In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular, it offers data structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license."
+Dask,adopt,Framework and Languages,FALSE,Dask is a flexible parallel python computing library for data analytics.
+CSS,adopt,Framework and Languages,FALSE,"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+HTML,adopt,Framework and Languages,FALSE,"Hypertext Markup Language is the standard markup language for creating web pages and web applications. With Cascading Style Sheets and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web."
+JavaScript,adopt,Framework and Languages,FALSE,"JavaScript, often abbreviated as JS, is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a programming language that is characterized as dynamic, weakly typed, prototype-based and multi-paradigm."
+Typescript,assess,Framework and Languages,FALSE,"TypeScript is an open-source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript, and adds optional static typing to the language. TypeScript is designed for development of large applications and transcompiles to JavaScript."
+WordPress,adopt,Framework and Languages,FALSE,"WordPress is a free and open-source content management system based on PHP and MySQL. Features include a plugin architecture and a template system. It is most associated with blogging but supports other types of web content including more traditional mailing lists and forums, media galleries, and online stores."
+react,assess,Framework and Languages,FALSE,React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications.
+Vue.js,assess,Framework and Languages,FALSE,Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
+Stancil.js,trial,Framework and Languages,FALSE,"Stencil is a compiler that generates Web Components (more specifically, Custom Elements). Stencil combines the best concepts of the most popular frameworks into a simple build-time tool."
+Sass,adopt,Framework and Languages,FALSE,"Sass is a style sheet language initially designed by Henry Thornton and developed by Natalie Weizenbaum. After its initial versions, Weizenbaum and Chris Eppstein have continued to extend Sass with SassScript, a simple scripting language used in Sass files."
+Vagrant,assess,tools,FALSE,"Vagrant is an open-source software product for building and maintaining portable virtual software development environments, e.g. for VirtualBox, KVM, Hyper-V, Docker containers, VMware, and AWS. It tries to simplify software configuration management of virtualizations in order to increase development productivity."
+VirtualBox,adopt,tools,FALSE,"Oracle VM VirtualBox is a free and open-source hosted hypervisor for x86 computers and is under development by Oracle Corporation. Developed initially by Innotek GmbH, it was acquired by Sun Microsystems in 2008, which was, in turn, acquired by Oracle in 2010."
+Slack,adopt,tools,FALSE,"Slack is an American cloud-based set of proprietary team collaboration tools and services, founded by Stewart Butterfield. Slack began as an internal tool used by his company, Tiny Speck, in the development of Glitch, a now defunct online game."
+asana,adopt,tools,FALSE,"Asana is a web and mobile application designed to help teams organize, track, and manage their work. Forrester, Inc. reports that “Asana simplifies team-based work management.”"
+Sublime Text,adopt,tools,FALSE,"Sublime Text is a proprietary cross-platform source code editor with a Python application programming interface. It natively supports many programming languages and markup languages, and functions can be added by users with plugins, typically community-built and maintained under free-software licenses."
+Atom,adopt,tools,FALSE,"Atom is a free and open-source text and source code editor for macOS, Linux, and Microsoft Windows with support for plug-ins written in Node.js, and embedded Git Control, developed by GitHub. Atom is a desktop application built using web technologies."
+Visual Studio Code,adopt,tools,FALSE,Placeholder
+Adobe Xd,adopt,tools,FALSE,Placeholder
+Local by flywheel,adopt,tools,FALSE,Placeholder
+Screaming Frog,adopt,tools,FALSE,Placeholder
+PyCharm,adopt,tools,FALSE,Placeholder
+Adobe Illustrator,adopt,tools,FALSE,Placeholder
+Docker,trial,tools,FALSE,Placeholder
+Semrush,adopt,tools,FALSE,Placeholder
+Dragon Metrics,adopt,tools,FALSE,Placeholder
+Google Ads,adopt,tools,FALSE,Placeholder
+Composer,adopt,tools,FALSE,Placeholder
+NPM,adopt,tools,FALSE,Placeholder
+Yarn,adopt,tools,FALSE,Placeholder
+Google Searchconsole,adopt,tools,FALSE,Placeholder
+Google analytics,adopt,tools,FALSE,Placeholder
+git,adopt,tools,FALSE,Placeholder
+gitlab,adopt,tools,FALSE,Placeholder
+Everhour,adopt,tools,FALSE,Placeholder
+Sourcetree,adopt,tools,FALSE,Placeholder
+Office,adopt,tools,FALSE,Placeholder
+Google Apps,adopt,tools,FALSE,Placeholder
+Adobe Photoshop,adopt,tools,FALSE,Placeholder
+Sage,adopt,Framework and Languages,FALSE,Placeholder
+ahrefs,adopt,tools,FALSE,Placeholder
+MySQL,adopt,Platform,FALSE,Placeholder
+SQL,adopt,Framework and Languages,FALSE,Placeholder
+Omniture,adopt,tools,FALSE,Placeholder
+Apache,adopt,Platform,FALSE,Placeholder
+Nginx,adopt,Platform,FALSE,Placeholder
+PhpUnit,adopt,Framework and Languages,FALSE,Placeholder
+Selenium,trial,tools,FALSE,Placeholder
+Mocha,trial,Framework and Languages,FALSE,Placeholder
+Chai,trial,Framework and Languages,FALSE,Placeholder
+Kubernetes,assess,Platform,FALSE,Placeholder
+PowerBI,adopt,tools,FALSE,Placeholder
+Google tag manager,adopt,tools,FALSE,Placeholder
+Google keyword manager,adopt,tools,FALSE,Placeholder
+Google data studio,adopt,tools,FALSE,Placeholder
+webflow,adopt,tools,FALSE,Placeholder
+buzzsumo,adopt,tools,FALSE,Placeholder
+deepcrawl,adopt,tools,FALSE,Placeholder
+iOs Appstore,adopt,Platform,FALSE,Placeholder
+brightedge,adopt,tools,FALSE,Placeholder
+Quantum Metric,adopt,tools,FALSE,Placeholder
+META SEO inspector,adopt,tools,FALSE,Placeholder
+Check My Links,adopt,tools,FALSE,Placeholder
+Check my broken links,adopt,tools,FALSE,Placeholder
+Fireshot,adopt,tools,FALSE,Placeholder
+Sensor Tower,adopt,tools,FALSE,Placeholder
+SEOquake,adopt,tools,FALSE,Placeholder
+Redirect Path,adopt,tools,FALSE,Placeholder
+Adobe InDesign,adopt,tools,FALSE,Placeholder
+MailChimp,adopt,tools,FALSE,Placeholder
+LastPass,adopt,Online Service,FALSE,Placeholder
+Electron,adopt,Framework and Language,FALSE,Placeholder
